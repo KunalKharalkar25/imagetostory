@@ -2,4 +2,5 @@ python-dotenv
 transformers 
 langchain 
 requests 
-streamlit
+streamlitt
+torch
