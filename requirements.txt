@@ -1,5 +1,5 @@
-dotenv==<>
-transformers==<>
-requests==<>
-streamlit==<>
-langchain==<>
+dotenv
+transformers
+requests
+streamlit
+langchain
