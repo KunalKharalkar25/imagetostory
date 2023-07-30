@@ -1,6 +1,5 @@
---upgrade pip
-dotenv
-transformers
-requests
+python-dotenv 
+transformers 
+langchain 
+requests 
 streamlit
-langchain
