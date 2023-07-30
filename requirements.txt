@@ -4,3 +4,4 @@ langchain
 requests 
 streamlit
 torch
+openai
